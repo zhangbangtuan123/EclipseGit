@@ -5,6 +5,7 @@
 	<artifactId>HeadProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
+    <!-- 我将它进行了修改 -->
     <!-- 这是父工程 -->
 	<dependencyManagement>
 		<dependencies>
